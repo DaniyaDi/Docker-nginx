@@ -1,0 +1,2 @@
+docker build -t my-simple-webpage .
+docker run -d -p 4000:80 my-simple-webpage
